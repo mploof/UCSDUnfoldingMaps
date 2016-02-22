@@ -1,0 +1,26 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Berlin",
+            "population":"3.375",
+            "country":"Germany",
+            "coastal":"false"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               13.383,
+               52.5167
+            ]
+         }
+      }
+   ]
+}
+
+// coastal or non-coastal
+// put more coastal cities
+// equal rep!
+// is Athens coastal?
